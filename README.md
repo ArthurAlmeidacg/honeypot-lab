@@ -50,7 +50,7 @@ with no human interaction identified. Typical large-scale scanning pattern.
 ### Installation
 
 ```bash
-git clone https://https://github.com/ArthurAlmeidacg/honeypot-lab
+git clone https://github.com/ArthurAlmeidacg/honeypot-lab
 cd honeypot-lab
 pip install -r honeypot/requirements.txt
 ```
