@@ -84,6 +84,26 @@ After data collection, generate the report:
 python analysis/analyze.py
 ```
 
+## Project structure
+
+```text id="p6d4s1"
+honeypot-lab/
+├── honeypot/
+│   ├── honeypot.py
+├── simulation/
+│   └── simulator.py
+├── analysis/
+│   └── analyze.py
+├── playbooks/
+│   ├── playbook_dmz.md
+│   ├── playbook_honeytoken.md
+│   └── playbook_ot.md
+├── docs/
+│   └── architecture.md
+README.md
+```
+
+
 ## What I learned
 
 - How botnets behave in practice — automated scanning,
