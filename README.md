@@ -89,7 +89,7 @@ python analysis/analyze.py
 ```text id="p6d4s1"
 honeypot-lab/
 ├── honeypot/
-│   ├── honeypot.py
+│   └── honeypot.py
 ├── simulation/
 │   └── simulator.py
 ├── analysis/
